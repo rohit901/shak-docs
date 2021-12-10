@@ -1,6 +1,6 @@
 Welcome to SHAK's documentation!
 ===================================
-SHAK has its documentation hosted on Read the Docs.
+SHAK has its documentation hosted on Read the Docs
 
 .. **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 .. that creates recipes mixing random ingredients.
